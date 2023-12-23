@@ -1,6 +1,6 @@
 # URL Shortner
 
-This application includes a registration system where users can log in or sign up. After logging in, users can access a page where they can input the original URL and submit it to obtain the shortened URL and on clicking shortened URL, users can access the original URL. For user authentication, I have implemented Passport.js.
+This application includes a registration system where users can log in or sign up. After logging in, users can access a page where they can input the original URL and submit it to obtain the shortened URL and on clicking shortened URL, users can access the original URL. For user authentication, I have implemented Passport.js. For data storage i have used mongoDB.
 
 ## Steps to start the project
 
